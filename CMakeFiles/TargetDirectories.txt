@@ -1,0 +1,6 @@
+/Users/morezash/Codes/UCR/Fall2020/compiler/CS201-Template/Pass/LivenessAnalysis/CMakeFiles/LivenessAnalysis.dir
+/Users/morezash/Codes/UCR/Fall2020/compiler/CS201-Template/Pass/LivenessAnalysis/CMakeFiles/edit_cache.dir
+/Users/morezash/Codes/UCR/Fall2020/compiler/CS201-Template/Pass/LivenessAnalysis/CMakeFiles/acc_gen.dir
+/Users/morezash/Codes/UCR/Fall2020/compiler/CS201-Template/Pass/LivenessAnalysis/CMakeFiles/omp_gen.dir
+/Users/morezash/Codes/UCR/Fall2020/compiler/CS201-Template/Pass/LivenessAnalysis/CMakeFiles/rebuild_cache.dir
+/Users/morezash/Codes/UCR/Fall2020/compiler/CS201-Template/Pass/LivenessAnalysis/CMakeFiles/intrinsics_gen.dir

@@ -1,0 +1,10 @@
+LivenessAnalysis: test
+entry: a b d e 
+do.body: b c d e 
+if.then: b d e 
+if.else: b d e 
+do.cond: a b d e 
+if.end: a b d e 
+do.end: 
+LivenessAnalysis: main
+entry: 
